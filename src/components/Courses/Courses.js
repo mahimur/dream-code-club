@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Course from '../Course/Course';
+import SideBar from '../SideBar/SideBar';
 import './Courses.css'
 
 const Courses = () => {
@@ -28,7 +29,7 @@ const Courses = () => {
                 </div>
             </div>
             <div className='exercise-details'>
-                <h1>thias is cart</h1>
+                <SideBar></SideBar>
             </div>
         </div>
     );
