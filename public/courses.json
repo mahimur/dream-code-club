@@ -1,0 +1,15 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "category": "Men's Sneaker",
+        "name": "ULTRABOOST 22 SHOES",
+        "seller": "Addidas",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+        "shipping": 1,
+        "quantity": 0
+    }
+]
