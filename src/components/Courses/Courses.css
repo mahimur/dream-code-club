@@ -11,8 +11,15 @@
     padding-left: 90px;
 }
 
-.exercise-info h1 {
+.header-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
     color: #3c97cf;
+}
+
+.header-icon {
+    font-size: 28px;
 }
 
 .exercises {

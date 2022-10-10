@@ -17,9 +17,13 @@
     margin: 0 20px;
 }
 
+.course-info p {
+    margin-bottom: 10px;
+}
+
 .course-name {
     margin-top: 5px;
-    margin-bottom: 0;
+    margin-bottom: 3px;
 }
 
 .btn {

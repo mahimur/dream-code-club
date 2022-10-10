@@ -1,3 +1,5 @@
+import { faCode } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useEffect, useState } from 'react';
 import Course from '../Course/Course';
 import SideBar from '../SideBar/SideBar';
@@ -16,7 +18,10 @@ const Courses = () => {
         <div className='container'>
             <div className='exercise-container'>
                 <div className='exercise-info'>
-                    <h1>Dream-Coding-Club</h1>
+                    <div className='header-title'>
+                        <FontAwesomeIcon icon={faCode} className='header-icon'></FontAwesomeIcon>
+                        <h1>Dream-Coding-Club</h1>
+                    </div>
                     <h3>Select today's exercise</h3>
                 </div>
                 <div className='exercises'>
