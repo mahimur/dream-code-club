@@ -1,15 +1,50 @@
 [
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-        "category": "Men's Sneaker",
-        "name": "ULTRABOOST 22 SHOES",
-        "seller": "Addidas",
-        "price": 420,
-        "stock": 20,
-        "ratings": 4,
-        "ratingsCount": 3725,
-        "img": "https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
-        "shipping": 1,
-        "quantity": 0
+        "category": "Web Development",
+        "name": "HTML",
+        "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed.",
+        "time": 25,
+        "img": "https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "category": "Web Development",
+        "name": "CSS",
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document.",
+        "time": 30,
+        "img": "https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "category": "Web Development",
+        "name": "JavaScript",
+        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World.",
+        "time": 35,
+        "img": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "category": "Web Development",
+        "name": "React JS",
+        "details": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.",
+        "time": 32,
+        "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "category": "Web Development",
+        "name": "Python",
+        "details": "Python is a high-level programming language. Its design philosophy emphasizes code readability.",
+        "time": 40,
+        "img": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "category": "Web Development",
+        "name": "Angular",
+        "details": "Angular is a TypeScript-based free and open-source web application frame work led by the Angular Team.",
+        "time": 30,
+        "img": "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1189&q=80"
     }
 ]

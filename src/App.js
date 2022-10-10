@@ -3,7 +3,7 @@ import Courses from './components/Courses/Courses';
 
 function App() {
   return (
-    <div>
+    <div className='container-body'>
       <Courses></Courses>
     </div>
   );
