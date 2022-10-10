@@ -18,3 +18,33 @@
 p {
     margin: 0;
 }
+
+.location {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.physical-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 24px;
+    margin: 25px 0;
+    background-color: #e9edf0;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.weight,
+.height,
+.age {
+    display: flex;
+    align-items: center;
+}
+
+.weight h2,
+.height h2,
+.age h2 {
+    margin: 0;
+}
