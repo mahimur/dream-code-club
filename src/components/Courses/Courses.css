@@ -1,6 +1,6 @@
 .container {
     display: grid;
-    grid-template-columns: 2.7fr 1fr;
+    grid-template-columns: 2.6fr 1.4fr;
 }
 
 .exercise-container {
@@ -26,7 +26,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
-    padding: 0 90px;
+    padding: 0 80px;
 }
 
 .exercise-details {

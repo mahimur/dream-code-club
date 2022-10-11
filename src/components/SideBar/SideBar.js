@@ -38,6 +38,28 @@ const SideBar = () => {
                     <p>Age</p>
                 </div>
             </div>
+            <div className='add-break'>
+                <p>Add A Break</p>
+                <div className='break-time'>
+                    <button className='btn-break'>5m</button>
+                    <button className='btn-break'>10m</button>
+                    <button className='btn-break'>15m</button>
+                    <button className='btn-break'>20m</button>
+                    <button className='btn-break'>25m</button>
+                </div>
+            </div>
+            <div className='ex-details'>
+                <p className='ex-title'>Exercise Details</p>
+                <div className='ex-time'>
+                    <h3>Exercise time</h3>
+                    <p>200 minutes</p>
+                </div>
+                <div className='br-time'>
+                    <h3>Break time</h3>
+                    <p>20 minutes</p>
+                </div>
+            </div>
+            <button className='btn-complete'>Activity Completed</button>
         </div>
     );
 };
