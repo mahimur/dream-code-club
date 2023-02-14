@@ -7,7 +7,7 @@ const SideBar = () => {
     return (
         <div className='side-bar'>
             <div className='personal-data'>
-                <img src="https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/311022107_832568461262824_5754410814558442546_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=jVFQYGlNPdUAX_rh-kr&_nc_ht=scontent.fdac27-2.fna&oh=00_AT8Vc85kqAsS4uXAo6RI7Ys3XuO0TuSeZDcw6q7RO-sGig&oe=634881A1" alt="mahimur" />
+                <img src="https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/328097180_2389224357902224_1696488522509969650_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=OMMLxcVxKiUAX_yJh7G&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfAFvi2l04nA7jw4kcSw0eSkF_8lO0wrxQDrLhdzdK1JFw&oe=63F16EE2" alt="mahimur" />
                 <div className='personal-info'>
                     <h3>Mahimur R. Mahim</h3>
                     <div className='location'>
@@ -27,6 +27,7 @@ const SideBar = () => {
                 <div>
                     <div className='height'>
                         <h2>6.5</h2>
+                        <small>ft</small>
                     </div>
                     <p>Height</p>
                 </div>
